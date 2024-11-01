@@ -2,8 +2,7 @@ Hi there! I’m Sai Abhishree, a passionate software developer with a Master's i
 
 🔧 Technologies I Work With:
 Languages: Python, R, SQL, C/C++, HTML/CSS
-Frameworks: [Include any frameworks you use, e.g., TensorFlow, PyTorch]
-Tools: [Include tools you use, e.g., Git, Docker]
+Frameworks: pip, Numpy, SciPy, Matplotlib, Pandas
 
 💼 Experience:
 As a Technical Specialist at George Washington University, I improved data pipeline efficiency and implemented machine learning models.
